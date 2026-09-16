@@ -1,0 +1,13 @@
+:root{
+    --cor-destaque: #3c184e;
+    --cor-base: #fff;
+    --cor-sombra: #1f26875e;
+    --cor-sombra-img: #0000005c;
+    --cor-transparencia: #ffffffc4;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
