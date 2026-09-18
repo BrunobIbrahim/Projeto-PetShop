@@ -17,6 +17,8 @@ a{
     text-decoration: none;
 }
 
+
+
 /* ==========================================================================
    Seção Banner
    ========================================================================== */
@@ -177,4 +179,95 @@ a{
 .links-redes-sociais img{
     width: 50px;
     height: 50px;
+}
+
+/* ==========================================================================
+   Seção Marcas
+   ========================================================================== */
+
+.marcas{
+    width: 100%;
+    padding: 120px 80px;
+}
+
+.marcas h2{
+    font-size: 36px;
+    color: var(--cor-destaque);
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+.marcas-logos{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+/* ==========================================================================
+   Seção Localização
+   ========================================================================== */
+
+
+.localizacao{
+    width: 100%;
+    padding: 120px 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.localizacao h2{
+    font-size: 36px;
+    color: var(--cor-destaque);
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+.localizacao p{
+    font-size: 20px;
+    color: var(--cor-destaque);
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+.localizacao iframe{
+    width: 800px;
+    height: 450px;
+}
+
+
+/* ==========================================================================
+   Seção footer
+   ========================================================================== */
+
+footer{
+    width: 100%;
+    padding: 10px 0;
+    background-color: var(--cor-destaque);
+
+}
+
+footer p{
+    font-size: 12px;
+    color: var(--cor-base);
+    text-align: center;
+}
+
+footer a{
+    color: var(--cor-base);
+    font-weight: 600;
+}
+
+footer a:hover {
+    cursor: pointer;
+}
+
+footer a :visited{
+    color: var(--cor-base);
 }
