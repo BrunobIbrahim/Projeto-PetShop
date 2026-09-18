@@ -46,7 +46,7 @@ Durante o desenvolvimento deste projeto, pude praticar:
 
 ## 🌐 Acesse o projeto
 
-🔗 **Deploy:** https://boutique-pet-orpin.vercel.app
+<a href="https://seu-site.vercel.app" target="_blank">Acesse o site</a>
 
 ---
 
