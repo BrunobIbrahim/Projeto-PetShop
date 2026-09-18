@@ -53,7 +53,7 @@ Durante o desenvolvimento deste projeto, pude praticar:
 ## 📷 Preview
 
 <p align="center">
-  <img src="assets/preview-boutique-pet.png" alt="Preview do projeto Boutique Pet" width="800">
+  <img src="./assets/PetBoutique.jpg" alt="Preview do projeto Boutique Pet" width="800">
 </p>
 
 ---
